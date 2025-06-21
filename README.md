@@ -1,7 +1,6 @@
 # NeuroTrace: AI Agent Security and Observability Platform
 
-![image](https://github.com/user-attachments/assets/4c831b0f-d41f-4270-842c-04dca41350f3)
-
+<img width="1490" alt="Screenshot 2025-06-21 at 1 17 09 AM" src="https://github.com/user-attachments/assets/f11447c0-1267-4dc8-b826-328e850f216f" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
