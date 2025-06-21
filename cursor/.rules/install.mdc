@@ -1,7 +1,0 @@
----
-description: 
-globs: 
-alwaysApply: true
----
-1. only use shadcn/ui components,
-2. use uv to install every package
